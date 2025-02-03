@@ -11,7 +11,7 @@ import commentRoutes from "./routes/commentRoutes.js";
 
 // Init App
 const app = express ()
-const port = 8060
+const port = 8080
 
 // Config
 dotenv.config()
